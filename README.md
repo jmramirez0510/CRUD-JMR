@@ -4,5 +4,8 @@ Este proyecto fue realizado por **Juan Miguel Ramírez**, estudiante de séptimo
 
 ## Captura de pantalla
 
-![image](https://github.com/user-attachments/assets/85b4d275-01c3-4d13-a484-c9233cfd2cb4)
+![image](https://github.com/user-attachments/assets/4750b95c-183f-4a73-8b61-23ecdbaf99d8)
 
+![image](https://github.com/user-attachments/assets/80e10a75-105b-4aff-94ec-00e9e8449474)
+
+![image](https://github.com/user-attachments/assets/52c8a7e6-b77c-48e7-8319-34d705b71259)
